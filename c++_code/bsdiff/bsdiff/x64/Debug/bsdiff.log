@@ -1,0 +1,15 @@
+﻿  blocksort.c
+  bzlib.c
+e:\eclipse_workplace\ndkmerge\code\bsdiff\bsdiff\bzlib.c(996): warning C4267: “=”: 从“size_t”转换到“Int32”，可能丢失数据
+e:\eclipse_workplace\ndkmerge\code\bsdiff\bsdiff\bzlib.c(1055): warning C4267: “=”: 从“size_t”转换到“Int32”，可能丢失数据
+e:\eclipse_workplace\ndkmerge\code\bsdiff\bsdiff\bzlib.c(1190): warning C4267: “=”: 从“size_t”转换到“Int32”，可能丢失数据
+  compress.c
+e:\eclipse_workplace\ndkmerge\code\bsdiff\bsdiff\compress.c(205): warning C4244: “=”: 从“__int64”转换到“Int32”，可能丢失数据
+  crctable.c
+  decompress.c
+  huffman.c
+  randtable.c
+  正在生成代码...
+  bsdiff.cpp
+    正在创建库 E:\eclipse_workplace\ndkmerge\code\bsdiff\x64\Debug\bsdiff.lib 和对象 E:\eclipse_workplace\ndkmerge\code\bsdiff\x64\Debug\bsdiff.exp
+  bsdiff.vcxproj -> E:\eclipse_workplace\ndkmerge\code\bsdiff\x64\Debug\bsdiff.dll
